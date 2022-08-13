@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idlcharles&label=Profile%20views&color=0e75b6&style=flat" alt="idlcharles" /> </p>
 
-- 🌱 Atualmente estou estudando **C#,.NET**
+- 🌱 Atualmente estou estudando **C#, .NET**
 
 - 👯 Procuro colaborar com **C# , .NET**
 
