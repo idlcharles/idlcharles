@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, Bem-vindo(a) ao meu perfil, me chamo Charles</h1>
+<h1 align="center">Olá 👋, Bem-vindo(a) ao meu perfil, me chamo Charles.</h1>
 <h3 align="center">Atualmente estou iniciando na área de programação buscando uma transição de carreira..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idlcharles&label=Profile%20views&color=0e75b6&style=flat" alt="idlcharles" /> </p>
