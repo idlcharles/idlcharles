@@ -9,7 +9,7 @@
 
 - 👨‍💻 Meus Projetos [https://github.com/idlcharles](https://github.com/idlcharles)
 
-- 📄 Sobre mim: [https://www.linkedin.com/in/charles-dos-santos-0119a4169/](https://www.linkedin.com/in/charles-dos-santos-0119a4169/)
+- 📄 Sobre mim: [https://www.linkedin.com/in/charles-dos-santos-0119a4169/](https://www.linkedin.com/in/charles-santos-dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
